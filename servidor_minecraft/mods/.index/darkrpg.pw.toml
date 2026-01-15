@@ -1,0 +1,16 @@
+filename = 'darkmenu-fabric-1.20.1-1.1.9.jar'
+name = 'DarkRPG Menu - DarkMenu (RPG Theme)'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f4f2b8f2261fa84a2f6e332f5ea0db32d59c1e44'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5424203
+project-id = 821626

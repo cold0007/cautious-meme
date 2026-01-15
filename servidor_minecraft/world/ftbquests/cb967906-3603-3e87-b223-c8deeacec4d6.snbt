@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "cb96790636033e87b223c8deeacec4d6"
+	name: "ElCachador#cb967906"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

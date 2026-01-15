@@ -1,0 +1,16 @@
+filename = 'darkglint-fabric-1.20.1-1.1.2.jar'
+name = 'DarkGlint - RPG Enchantment Glint'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '782f0154ad0dbb6608ed009393c48cef5af53200'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5424562
+project-id = 897544

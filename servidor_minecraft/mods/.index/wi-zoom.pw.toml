@@ -1,0 +1,16 @@
+filename = 'WI-Zoom-1.5-MC1.20.1.jar'
+name = 'WI Zoom'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '964185c13f17813f8abb76ce84b4d92fd955a5f6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4770990
+project-id = 349630

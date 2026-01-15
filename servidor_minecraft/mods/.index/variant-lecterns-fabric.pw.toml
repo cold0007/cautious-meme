@@ -1,0 +1,16 @@
+filename = 'variantlecterns-1.0.jar'
+name = 'Variant Lecterns [Fabric]'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b4fd062444c54ae4947b0f41f372b1d083c41c5b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5023619
+project-id = 959319

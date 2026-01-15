@@ -1,0 +1,26 @@
+filename = 'apocalypse_origins-0.4.63-1.20.X.jar'
+name = 'An Origins Addon - Apocalypse'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.20.1',
+    '1.20.2',
+    '1.20.2-Snapshot',
+    '1.20.3',
+    '1.20.3-Snapshot',
+    '1.20.4',
+    '1.20.5',
+    '1.20.5-Snapshot',
+    '1.20.6'
+]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '50abf0205516b22b24b82e0aa92438d5c8425531'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5805862
+project-id = 521235

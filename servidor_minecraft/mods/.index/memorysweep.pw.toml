@@ -1,0 +1,16 @@
+filename = 'memorysweep-1.20.1-1.1.2-fabric.jar'
+name = 'MemorySweep'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '1138d1178d8759571c312ddec0d98579a35ff123'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5727828
+project-id = 784959

@@ -1,0 +1,16 @@
+filename = 'soulslike-weaponry-1.2.1-1.20.1-fabric.jar'
+name = "Marium's Soulslike Weaponry"
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2f56e1a7d138044a9ca494ca8f03954504b2b4c1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6123860
+project-id = 632066

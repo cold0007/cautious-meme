@@ -1,0 +1,16 @@
+filename = 'giftsofgiving-fabric-1.20.1-1.1.1.jar'
+name = 'Gifts of Giving'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '4564c16938a866398c4ac11ee07c8687037de93e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4978920
+project-id = 946184

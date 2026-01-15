@@ -1,0 +1,16 @@
+filename = 'darkinventory-fabric-1.20.1-1.1.4.jar'
+name = 'DarkInventory - RPG Keep Inventory On'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f29fdceda42c2c230e4a0537ed2771fc55c86b10'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5417021
+project-id = 811840

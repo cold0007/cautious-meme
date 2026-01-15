@@ -1,0 +1,16 @@
+filename = '1.20.1-convenient-hitboxes-1.0.5.jar'
+name = 'Convenient Hitboxes'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ce245882bb60d30efd329cbd4e8b29c6869f646b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4607922
+project-id = 759395

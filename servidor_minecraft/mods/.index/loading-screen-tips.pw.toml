@@ -1,0 +1,16 @@
+filename = 'loadingscreentips-1.3.1.jar'
+name = 'Loading Screen Tips'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '27041d9bb759a8a7cb474e8b1a32750bab7e602a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4772096
+project-id = 527804

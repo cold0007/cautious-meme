@@ -1,0 +1,16 @@
+filename = 'libreexpfix-0.2.7+1.18b14-BETA-fabric.jar'
+name = 'LibreExpFix [Fabric/Forge] (Fixes "0 Experience" Bug)'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.18', '1.18.1', '1.18.2', '1.19', '1.19.1', '1.19.2', '1.19.3', '1.19.4', '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'cd701ad5cd93a1a7676b3e903d344f3c3988470a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5286991
+project-id = 676174

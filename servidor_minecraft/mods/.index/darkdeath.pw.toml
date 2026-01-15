@@ -1,0 +1,16 @@
+filename = 'darkdeath-fabric-1.20.1-1.1.2.jar'
+name = 'DarkDeath - RPG Kill Command'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b9468418458a09b2b1e07798c1a13b92b8a199db'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5416949
+project-id = 924487

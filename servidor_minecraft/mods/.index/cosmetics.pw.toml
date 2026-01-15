@@ -1,0 +1,16 @@
+filename = 'cosmetica-1.20-1.2.9.jar'
+name = 'Cosmetica'
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f25c46322eabd73912c917823787a9281bb01072'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5250195
+project-id = 581009

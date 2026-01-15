@@ -1,0 +1,16 @@
+filename = 'happygolucky-fabric-1.20.1-1.0.3.jar'
+name = 'Happy Go Lucky - RPG Random Teleportation'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '822a496cf0f880cb934eae08972a0681de3f9d8c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5423789
+project-id = 969653

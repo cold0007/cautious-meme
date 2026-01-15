@@ -1,0 +1,16 @@
+filename = 'darkcap-fabric-1.20.1-1.1.5.jar'
+name = 'DarkCap - RPG Cap Your XP!'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b36cad6cb18b935752e2b84da21b0e02a8359762'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5423594
+project-id = 686578

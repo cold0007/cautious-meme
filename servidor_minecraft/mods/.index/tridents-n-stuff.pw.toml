@@ -1,0 +1,16 @@
+filename = 'tridents_n_stuff-0.2.0+1.20.1.jar'
+name = "Tridents 'n' Stuff"
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'bfefa7f6113e7fc837c9a9be5eb5ad1a1d9f64b1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5288931
+project-id = 940827

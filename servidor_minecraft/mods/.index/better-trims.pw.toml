@@ -1,0 +1,16 @@
+filename = 'BetterTrims-3.2.8-fabric+1.20.1.jar'
+name = 'Better Trims'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'df84de85825b8654631e0dfc1bee9aa637dcfe98'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5826058
+project-id = 821752

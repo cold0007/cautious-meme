@@ -1,0 +1,16 @@
+filename = 'darkspins-fabric-1.20.1-1.2.0.jar'
+name = 'DarkSpins - RPG XP Casino'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ec89dfaa4082d60029572f0fa1631128843c2ebb'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5423123
+project-id = 682209

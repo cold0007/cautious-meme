@@ -1,0 +1,16 @@
+filename = 'bedspreads-fabric-6.2.0+1.20.1.jar'
+name = 'Bedspreads'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6b1f3595810f785a3b763d5439d3d2256259f670'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4597916
+project-id = 308653

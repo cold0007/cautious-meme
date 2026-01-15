@@ -1,0 +1,16 @@
+filename = 'perfectbirbs-fabric-1.20.1-1.2.0.jar'
+name = 'Perfect Birbs'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9fc294267a40c03d933a2f0264986bf3ba39a5d2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5738420
+project-id = 1057248

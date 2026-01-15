@@ -1,0 +1,16 @@
+filename = 'Eldritch_End-FABRIC-MC1.20.1-0.3.3.jar'
+name = 'Eldritch End'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7d3395aba3984454c1a564e72c39cbbdaf972a0e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6122658
+project-id = 877553

@@ -1,0 +1,16 @@
+filename = 'iris-1.7.5+mc1.20.1.jar'
+name = 'Iris Shaders'
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '613d3e28f4c0744a049f2583a25c2f36bd8537d9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5789255
+project-id = 455508

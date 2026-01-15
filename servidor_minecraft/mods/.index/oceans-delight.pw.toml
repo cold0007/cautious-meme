@@ -1,0 +1,16 @@
+filename = 'oceansdelight-fdrf-fabric-1.0.2-1.20.jar'
+name = "Ocean's Delight"
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '304368f379aebb5f16b869a1d7ea52a88db68025'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5230028
+project-id = 841262

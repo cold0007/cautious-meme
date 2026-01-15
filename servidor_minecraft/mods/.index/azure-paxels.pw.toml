@@ -1,0 +1,16 @@
+filename = 'azure-paxels-1.20.2-1.0.11.jar'
+name = 'Azure Paxels'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'fd3ce7cb6fd0b3e7bc2f25b729ac23afa711cfda'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5249529
+project-id = 858703

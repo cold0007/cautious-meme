@@ -1,0 +1,16 @@
+filename = 'Geophilic v3.2 f15-61.jar'
+name = 'Geophilic – Vanilla Biome Overhauls'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6', '1.21', '1.21.1', '1.21.2', '1.21.3', '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '976f0e5021f9f2b459f5d0f95af3e765a7879d73'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6096722
+project-id = 711216

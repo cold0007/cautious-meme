@@ -1,0 +1,16 @@
+filename = 'ftb-xmod-compat-fabric-2.1.2.jar'
+name = 'FTB XMod Compat'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9679f79b4d1faef392504356146d92fefd7ba108'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6046019
+project-id = 889915

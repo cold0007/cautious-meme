@@ -1,0 +1,16 @@
+filename = 'doublejumpattribute-1.0.9.jar'
+name = 'Double Jump Attribute'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6d22e2f4e9579bc72f0d36fae78b15611a9d5b61'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4686193
+project-id = 532877

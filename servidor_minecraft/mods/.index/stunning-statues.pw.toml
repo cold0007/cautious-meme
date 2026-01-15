@@ -1,0 +1,16 @@
+filename = '1.20.1-stunningstatues-1.0.1.jar'
+name = 'Stunning Statues'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'abe0f3a4b2c0dbf85d094d208270f026f46e4dc2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6026295
+project-id = 1165678

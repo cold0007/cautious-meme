@@ -1,0 +1,16 @@
+filename = 'fabric-seasons-croptopia-2.2.2-compat-1.0.jar'
+name = 'Fabric Seasons: Croptopia Compat'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19.2', '1.19.3', '1.19.4', '1.20', '1.20.1', '1.20.2', '1.20.4', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '561fa88280b3f6e7d716fd592faa4cdabd93eb93'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4496996
+project-id = 851600

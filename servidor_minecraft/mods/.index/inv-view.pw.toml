@@ -1,0 +1,16 @@
+filename = 'InvView-1.4.12-1.20+.jar'
+name = 'Inv View'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f6775526021843c16dc7847bbf0b8dbcca434454'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4731409
+project-id = 405159

@@ -1,0 +1,16 @@
+filename = 'Origins-Classes-1.20-1.7.0.jar'
+name = 'Origins: Classes'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'cb99c72a6f4f4fb40a225da7a52875a878b1168a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4619806
+project-id = 401833

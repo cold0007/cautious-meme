@@ -1,0 +1,16 @@
+filename = 'waterballoon-fabric-1.20.1-1.0.1.jar'
+name = 'Water Balloon'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '569006b804602733b6ba30f56b1d2525de883393'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5433711
+project-id = 1037173

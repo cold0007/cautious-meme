@@ -1,0 +1,16 @@
+filename = 'BHMenu-Fabric-1.20.1-2.4.1.jar'
+name = 'BisectHosting Server Integration Menu [FABRIC]'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a493df7e83ab6f3b4a4b45fa13e0b509b2de7a63'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4743117
+project-id = 585548

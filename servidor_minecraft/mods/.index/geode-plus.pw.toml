@@ -1,0 +1,16 @@
+filename = 'geode_plus-fabric-1.2.5-1.20.1.jar'
+name = 'Geode+'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '448cf528d4ffddd129d8899d57d5d75a87757c79'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5407756
+project-id = 620784

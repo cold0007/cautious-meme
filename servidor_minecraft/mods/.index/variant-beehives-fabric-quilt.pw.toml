@@ -1,0 +1,16 @@
+filename = 'variantbeehives-1.2.jar'
+name = 'Variant Beehives [Fabric | Quilt]'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f3df3628d0f9482576cb3be78207cb1cd3159cf1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5035127
+project-id = 895484

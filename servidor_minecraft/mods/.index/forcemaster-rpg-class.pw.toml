@@ -1,0 +1,16 @@
+filename = 'forcemaster-class-mod-1.1.1.jar'
+name = 'Forcemaster (More RPG Classes)'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '526e36e0af2faf517b35235827df2b52b78f7591'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5693148
+project-id = 992388

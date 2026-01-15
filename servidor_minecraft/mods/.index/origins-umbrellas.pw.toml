@@ -1,0 +1,16 @@
+filename = 'originsumbrellas-1.5.6.jar'
+name = 'Origins: Umbrellas'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a5acae1e42c78af849fb54ac35ee6b6c65ede0a9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5236650
+project-id = 453378

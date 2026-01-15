@@ -1,0 +1,17 @@
+{
+	id: "cb967906-3603-3e87-b223-c8deeacec4d6"
+	type: "player"
+	player_name: "ElCachador"
+	ranks: {
+		cb967906-3603-3e87-b223-c8deeacec4d6: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ElCachador"
+		"ftbteams:description": ""
+		"ftbteams:color": "#DCFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

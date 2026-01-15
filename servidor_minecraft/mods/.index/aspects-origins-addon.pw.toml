@@ -1,0 +1,16 @@
+filename = 'aspects-1.0.9-1.20.x.jar'
+name = 'Aspects | Origins Addon'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd1d2561d628382225692a4df7209900b00d4508c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4824835
+project-id = 556745

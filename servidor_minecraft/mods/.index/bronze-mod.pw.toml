@@ -1,0 +1,16 @@
+filename = 'bronze-1.0.13+1.20.1.jar'
+name = 'Bronze'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '295e3c12c28eb36f3774861d9bb3f62830bbf77b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6055745
+project-id = 1010300

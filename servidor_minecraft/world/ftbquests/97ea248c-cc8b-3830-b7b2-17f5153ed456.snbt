@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "97ea248ccc8b3830b7b217f5153ed456"
+	name: "Flo4zy#97ea248c"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

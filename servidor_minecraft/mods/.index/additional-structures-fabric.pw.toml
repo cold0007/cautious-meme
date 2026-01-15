@@ -1,0 +1,16 @@
+filename = 'AdditionalStructures-1.20.x-(v.4.2.2-fabric).jar'
+name = 'Additional Structures (Fabric/Quilt)'
+side = 'server'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '48dc5b3bc6ffafd20b365b8a9e3fb6082d7b5a6c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5695656
+project-id = 585782

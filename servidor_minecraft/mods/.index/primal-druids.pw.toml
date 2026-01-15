@@ -1,0 +1,16 @@
+filename = 'druids-0.9.8.0.jar'
+name = 'Primal Druidry [Formerly Storm and Spirit]'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '80697ff36e46c0fb2b5e0579e147bd0503ff455c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5463956
+project-id = 992252

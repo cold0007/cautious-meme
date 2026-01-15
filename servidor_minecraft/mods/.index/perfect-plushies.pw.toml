@@ -1,0 +1,16 @@
+filename = 'perfectplushies-fabric-1.20.1-1.12.0.jar'
+name = 'Perfect Plushies'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f7fc37392489e68bdef001301c906e13b7314af0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5722445
+project-id = 867232

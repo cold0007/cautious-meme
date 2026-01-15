@@ -1,0 +1,16 @@
+filename = 'berserker-class-mod-1.1.0.jar'
+name = 'Berserker (More RPG Classes)'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '44943bee00b734cb22023f36aa836c2b38e57c9e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5723538
+project-id = 991968

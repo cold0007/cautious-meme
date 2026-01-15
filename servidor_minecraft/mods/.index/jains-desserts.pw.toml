@@ -1,0 +1,16 @@
+filename = '1.20-jains-desserts-2.0.0.jar'
+name = "Jain's Desserts"
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '5e929e5c0708bc1c56d98712eeb7b58ba291711f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5160860
+project-id = 847751

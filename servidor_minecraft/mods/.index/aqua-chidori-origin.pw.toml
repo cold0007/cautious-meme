@@ -1,0 +1,16 @@
+filename = 'aquachidori-fabric-1.20.1-1.0.7.jar'
+name = 'Aqua Chidori Origin - Origins Addon'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '4a8d0b942fdbf8e7c7e9a872276c66e6834f7599'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5420448
+project-id = 889546

@@ -1,0 +1,16 @@
+filename = 'morningglory-fabric-1.20.1-1.0.0.jar'
+name = 'Morning Glory - Cat Morning Gift (RPG Theme)'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9f1b6b3a6eb655957783a34c12792aa56bc8f8aa'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5806134
+project-id = 1120221

@@ -1,0 +1,16 @@
+filename = 'batsgalore-fabric-1.20.1-1.2.3.jar'
+name = 'Bats Galore'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2c4cb79a41800b0a1050075390c3128522d8abc2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5669925
+project-id = 915336

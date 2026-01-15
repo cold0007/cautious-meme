@@ -1,0 +1,16 @@
+filename = 'loot_n_explore-0.1.7-1.20.1.jar'
+name = 'Loot & Explore'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'd75066337179937d20dd5ac8a89e4325bf018595'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6124330
+project-id = 1148917

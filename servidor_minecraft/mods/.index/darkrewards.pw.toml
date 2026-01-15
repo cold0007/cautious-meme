@@ -1,0 +1,16 @@
+filename = 'darkrewards-fabric-1.20.1-1.1.6.jar'
+name = 'DarkRewards - RPG Item Rewards'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7d70f4f62fce5dc3aed2f3fd2207777ecc96ab5e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5417795
+project-id = 845448

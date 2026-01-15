@@ -1,0 +1,16 @@
+filename = 'nyfsbp-fabric-1.20.1-1.1.1.jar'
+name = "Nyf's Banner Patterns"
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b0ce4fc850edc94d7ac232d52a86f930cb6963b4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4767565
+project-id = 846321

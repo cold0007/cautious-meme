@@ -1,0 +1,16 @@
+filename = 'villagerconfig-4.1.2+1.20.1.jar'
+name = 'VillagerConfig'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'bd106010879bdf05b370e712c4512b7f3cd79a61'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5041753
+project-id = 400741

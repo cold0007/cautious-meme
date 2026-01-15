@@ -1,0 +1,16 @@
+filename = 'archeologyplus-1.0.2.jar'
+name = 'Archeology Plus'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'da15137fb2d2c82226dbad935aad62ccdb849d88'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4701706
+project-id = 870762

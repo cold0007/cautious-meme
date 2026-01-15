@@ -1,0 +1,16 @@
+filename = 'darkstarter-fabric-1.20.1-1.1.4.jar'
+name = 'DarkStarter - RPG Starter Login Item Rewards'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f3693eba51172ba6b18be311043d4d91d71c4d14'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5418044
+project-id = 824692

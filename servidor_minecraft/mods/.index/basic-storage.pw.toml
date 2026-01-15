@@ -1,0 +1,16 @@
+filename = 'basicstorage-1.0.4+1.20.1.jar'
+name = 'Basic Storage'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '0f095ba41e3f0364735d03f0f88a32eb7b67a38e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5919746
+project-id = 1054506

@@ -1,0 +1,16 @@
+filename = 'fzzy_core-0.5.1+1.20.1.jar'
+name = 'Fzzy Core'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '72b76630165621f8c268af7356a3c4f9c25dbc20'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5299332
+project-id = 821445

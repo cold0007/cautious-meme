@@ -1,0 +1,16 @@
+filename = 'clutter-1.20-0.6.0.jar'
+name = 'Clutter'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'dcdea154e6c1351fd19bb6db6f7e3de94a43af35'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5828924
+project-id = 826060

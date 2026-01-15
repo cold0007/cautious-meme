@@ -1,0 +1,16 @@
+filename = 'triqueapi-mc1.20.1-1.1.0.jar'
+name = 'TriQue API'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '40bcc0416578c2c06a37f7c3f4f1e44499b32d81'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4738149
+project-id = 908730

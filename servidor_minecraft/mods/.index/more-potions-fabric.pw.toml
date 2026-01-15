@@ -1,0 +1,16 @@
+filename = '1.20-more-potions-2.0.0.jar'
+name = 'More Potions!'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a0bcd137ed5e82a14f462e08e3da9e0461e9842c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4704836
+project-id = 897407

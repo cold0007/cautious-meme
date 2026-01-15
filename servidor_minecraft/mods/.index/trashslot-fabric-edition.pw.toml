@@ -1,0 +1,16 @@
+filename = 'trashslot-fabric-1.20-15.1.1.jar'
+name = 'TrashSlot (Outdated Versions)'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b777e868e0487bbb137cf55a25d2e178af2bb13b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6077694
+project-id = 547689

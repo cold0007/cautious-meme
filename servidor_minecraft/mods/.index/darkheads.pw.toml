@@ -1,0 +1,16 @@
+filename = 'darkheads-fabric-1.20.1-1.1.3.jar'
+name = 'DarkHeads - RPG Player Heads'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '30ec0499affe786d987341d3a2f32aa076c3862d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5417104
+project-id = 868530

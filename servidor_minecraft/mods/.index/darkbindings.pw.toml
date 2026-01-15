@@ -1,0 +1,16 @@
+filename = 'darkbindings-fabric-1.20.1-1.4.8.jar'
+name = 'DarkBindings - RPG Recipes to Craft'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '5d4217364c06a060c3287fde71d88eaa28e1cb58'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5416853
+project-id = 658596

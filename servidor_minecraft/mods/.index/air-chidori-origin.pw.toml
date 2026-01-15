@@ -1,0 +1,16 @@
+filename = 'airchidori-fabric-1.20.1-1.0.9.jar'
+name = 'Air Chidori Origin - Origins Addon'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b3840be1dff6ca6043ec7148eb30b9eee1d0a60b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5420466
+project-id = 830265

@@ -1,0 +1,16 @@
+filename = 'fzzy_config-0.6.4+1.20.1.jar'
+name = 'Fzzy Config'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9be541889354c11e16c1f0bdcda4ce32856e8ed5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6144555
+project-id = 1005914

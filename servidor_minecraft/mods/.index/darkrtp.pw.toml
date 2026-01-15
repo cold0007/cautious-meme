@@ -1,0 +1,16 @@
+filename = 'darkrtp-fabric-1.20.1-1.1.7.jar'
+name = 'DarkRTP - RTP RPG Random Teleport'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e5b90cb9fdf37f88dfddc25eb160988729bd56b6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5419688
+project-id = 677277

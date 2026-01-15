@@ -1,0 +1,16 @@
+filename = 'pickable_villagers-1.4.5+1.20.1.jar'
+name = 'Pickable Villagers [Fabric]'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6d0ee852de727fbf3bd12ca75143b4e1e304788d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4899214
+project-id = 636067

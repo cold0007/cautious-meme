@@ -1,0 +1,16 @@
+filename = 'expores-1.0.0+mc1.20.1.jar'
+name = 'Exp Ores'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'cf714fe23103a6b462bf1ab7753872c9dd15fcd2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5507994
+project-id = 1058528

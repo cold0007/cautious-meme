@@ -1,0 +1,16 @@
+filename = 'death_knights-fabric-1.0.0-1.20.1.jar'
+name = 'Death Knights (RPG Series)'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '61511112de79a2e712b9a7520e9b7807ad19c190'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6109209
+project-id = 968119

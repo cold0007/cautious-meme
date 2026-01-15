@@ -1,0 +1,16 @@
+filename = 'armorstandarms-fabric-1.20.1-1.0.0.jar'
+name = 'Armor Stand Arms (RPG Theme)'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '558a136878273dd547be97525238f76cb67eace0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5470458
+project-id = 1048775

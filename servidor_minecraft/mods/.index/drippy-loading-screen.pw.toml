@@ -1,0 +1,16 @@
+filename = 'drippyloadingscreen_fabric_3.0.11_MC_1.20.1.jar'
+name = 'Drippy Loading Screen'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b9e2b818863a564112c06337cf341fa01d839263'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6172513
+project-id = 511770

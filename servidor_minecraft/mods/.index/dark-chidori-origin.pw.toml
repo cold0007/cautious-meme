@@ -1,0 +1,16 @@
+filename = 'darkchidori-fabric-1.20.1-1.0.8.jar'
+name = 'Dark Chidori Origin - Origins Addon'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '45599eb3403a26ed7c8bde5c8c8963b4583f1d78'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5420400
+project-id = 890366

@@ -1,0 +1,16 @@
+filename = 'MeliusCommands-2.0.2+1.20.1.jar'
+name = 'Melius Commands'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1e5956dd42d2c15b4777bc314a97860a2c867e5d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6176788
+project-id = 903910

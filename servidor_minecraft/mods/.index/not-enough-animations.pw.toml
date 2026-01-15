@@ -1,0 +1,16 @@
+filename = 'notenoughanimations-fabric-1.9.1-mc1.20.1.jar'
+name = 'Not Enough Animations'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2be7e913b54cd1f3d2d738fea217870008ecbf9e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6100500
+project-id = 433760

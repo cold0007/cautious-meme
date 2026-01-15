@@ -1,0 +1,16 @@
+filename = 'diamondeconomy-1.5.6.jar'
+name = 'Diamond Economy'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '98fd71fa92cef0764c8cb992e11d2153badac988'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4574011
+project-id = 534301

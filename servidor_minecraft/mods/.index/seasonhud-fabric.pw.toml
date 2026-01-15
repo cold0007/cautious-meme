@@ -1,0 +1,16 @@
+filename = 'seasonhud-fabric-1.20.1-1.12.0.jar'
+name = 'SeasonHUD (Fabric)'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7ae2e7d67ff6ce4a89484abeb9260fa4270dae5c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6176337
+project-id = 848022

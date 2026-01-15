@@ -1,0 +1,16 @@
+filename = 'minecord-2.1.0+1.20.1.jar'
+name = 'Minecord (for Discord)'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9d366f1f6b97da4be33d18e43571ecc7c3063ff0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5332384
+project-id = 502254

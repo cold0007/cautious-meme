@@ -1,0 +1,16 @@
+filename = 'kevstierifymodifiers-1.5.6.jar'
+name = "Kev's Tierify Modifiers"
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '377e702c3e81614dc5e89f1df419f50832c0e6bc'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5952995
+project-id = 983756

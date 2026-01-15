@@ -1,0 +1,16 @@
+filename = 'mythicmetals-0.19.9+1.20.1.jar'
+name = 'Mythic Metals'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'afcc7bd935892a4a2783ef2d4daf836f2e902cb7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5418365
+project-id = 410127

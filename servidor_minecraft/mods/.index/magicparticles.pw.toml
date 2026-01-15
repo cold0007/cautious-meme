@@ -1,0 +1,16 @@
+filename = 'MagicParticles-1.2.1+1.20.1.jar'
+name = 'MagicParticles'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1d043393b601368e8ba2e67ef01705b19424873e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5481218
+project-id = 1039141

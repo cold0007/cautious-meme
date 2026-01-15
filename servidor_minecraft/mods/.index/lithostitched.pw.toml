@@ -1,0 +1,16 @@
+filename = 'lithostitched-fabric-1.20.1-1.4.2.jar'
+name = 'Lithostitched'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e4630aff5a37f82d3adba54143b46be989a457b6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6154839
+project-id = 936015

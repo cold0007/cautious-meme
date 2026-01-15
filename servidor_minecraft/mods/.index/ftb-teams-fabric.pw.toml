@@ -1,0 +1,16 @@
+filename = 'ftb-teams-fabric-2001.3.1.jar'
+name = 'FTB Teams (Fabric)'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '515a933d22c60d0f9c249a6eef02402afc2695ac'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6130783
+project-id = 438497

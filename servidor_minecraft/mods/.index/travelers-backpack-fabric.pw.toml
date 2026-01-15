@@ -1,0 +1,16 @@
+filename = 'travelersbackpack-fabric-1.20.1-9.1.18.jar'
+name = "Traveler's Backpack [Fabric]"
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ea1840e53614927b3bd03f8b1de1e32f33a525f2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5812761
+project-id = 541171
