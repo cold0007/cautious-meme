@@ -1,0 +1,110 @@
+2026/07/07 07:16:02 logtail started
+2026/07/07 07:16:02 Program starting: v1.80.2-t62b8bf6a0-g3c35ee987, Go 1.23.5: []string{"./tailscaled"}
+2026/07/07 07:16:02 LogID: dad87ce63d88834abb632cd0bd072d3ef12b0aada21c20e3892282ecb7a7c274
+2026/07/07 07:16:02 logpolicy: using system state directory "/var/lib/tailscale"
+2026/07/07 07:16:02 dns: resolvedIsActuallyResolver error: resolv.conf doesn't point to systemd-resolved; points to [127.0.0.53 168.63.129.16]
+2026/07/07 07:16:02 dns: [rc=resolved resolved=not-in-use ret=direct]
+2026/07/07 07:16:02 dns: using "direct" mode
+2026/07/07 07:16:02 dns: using *dns.directManager
+2026/07/07 07:16:02 dns: inotify addwatch: context canceled
+2026/07/07 07:16:02 wgengine.NewUserspaceEngine(tun "tailscale0") ...
+2026/07/07 07:16:02 dns: resolvedIsActuallyResolver error: resolv.conf doesn't point to systemd-resolved; points to [127.0.0.53 168.63.129.16]
+2026/07/07 07:16:02 dns: [rc=resolved resolved=not-in-use ret=direct]
+2026/07/07 07:16:02 dns: using "direct" mode
+2026/07/07 07:16:02 dns: using *dns.directManager
+2026/07/07 07:16:02 link state: interfaces.State{defaultRoute=eth0 ifs={docker0:[172.17.0.1/16] eth0:[10.0.0.55/16 llu6]} v4=true v6=false}
+2026/07/07 07:16:02 onPortUpdate(port=41030, network=udp6)
+2026/07/07 07:16:02 router: using firewall mode pref 
+2026/07/07 07:16:02 router: default choosing iptables
+2026/07/07 07:16:02 router: netfilter running in iptables mode v6 = true, v6filter = true, v6nat = true
+2026/07/07 07:16:02 onPortUpdate(port=44347, network=udp4)
+2026/07/07 07:16:02 magicsock: disco key = d:a2d855768e0d6c7e
+2026/07/07 07:16:02 Creating WireGuard device...
+2026/07/07 07:16:02 Bringing WireGuard device up...
+2026/07/07 07:16:02 Bringing router up...
+2026/07/07 07:16:02 external route: up
+2026/07/07 07:16:02 Clearing router settings...
+2026/07/07 07:16:02 Starting network monitor...
+2026/07/07 07:16:02 Engine created.
+2026/07/07 07:16:02 monitor: [unexpected] network state changed, but stringification didn't: interfaces.State{defaultRoute=eth0 ifs={docker0:[172.17.0.1/16] eth0:[10.0.0.55/16 llu6]} v4=true v6=false}
+2026/07/07 07:16:02 monitor: [unexpected] old: {"InterfaceIPs":{"docker0":["172.17.0.1/16"],"eth0":["10.0.0.55/16","fe80::7e1e:52ff:fed1:7132/64"],"lo":["127.0.0.1/8","::1/128"]},"Interface":{"docker0":{"Index":3,"MTU":1500,"Name":"docker0","HardwareAddr":"AkJhRJ5w","Flags":19,"AltAddrs":null,"Desc":""},"eth0":{"Index":2,"MTU":1500,"Name":"eth0","HardwareAddr":"fB5S0XEy","Flags":51,"AltAddrs":null,"Desc":""},"lo":{"Index":1,"MTU":65536,"Name":"lo","HardwareAddr":null,"Flags":37,"AltAddrs":null,"Desc":""}},"HaveV6":false,"HaveV4":true,"IsExpensive":false,"DefaultRouteInterface":"eth0","HTTPProxy":"","PAC":""}
+2026/07/07 07:16:02 monitor: [unexpected] new: {"InterfaceIPs":{"docker0":["172.17.0.1/16"],"eth0":["10.0.0.55/16","fe80::7e1e:52ff:fed1:7132/64"],"lo":["127.0.0.1/8","::1/128"],"tailscale0":["fe80::7cfc:5e5f:2b9a:c552/64"]},"Interface":{"docker0":{"Index":3,"MTU":1500,"Name":"docker0","HardwareAddr":"AkJhRJ5w","Flags":19,"AltAddrs":null,"Desc":""},"eth0":{"Index":2,"MTU":1500,"Name":"eth0","HardwareAddr":"fB5S0XEy","Flags":51,"AltAddrs":null,"Desc":""},"lo":{"Index":1,"MTU":65536,"Name":"lo","HardwareAddr":null,"Flags":37,"AltAddrs":null,"Desc":""},"tailscale0":{"Index":6,"MTU":1280,"Name":"tailscale0","HardwareAddr":null,"Flags":57,"AltAddrs":null,"Desc":""}},"HaveV6":false,"HaveV4":true,"IsExpensive":false,"DefaultRouteInterface":"eth0","HTTPProxy":"","PAC":""}
+2026/07/07 07:16:02 pm: using backend prefs for "profile-387f": Prefs{ra=false dns=true want=true routes=[] statefulFiltering=false nf=on update=check Persist{o=, n=[ES5mx] u="licenciadochedar@gmail.com"}}
+2026/07/07 07:16:02 LinkChange: major, rebinding. New state: interfaces.State{defaultRoute=eth0 ifs={docker0:[172.17.0.1/16] eth0:[10.0.0.55/16 llu6]} v4=true v6=false}
+2026/07/07 07:16:02 logpolicy: using system state directory "/var/lib/tailscale"
+2026/07/07 07:16:02 onPortUpdate(port=41030, network=udp6)
+2026/07/07 07:16:02 onPortUpdate(port=44347, network=udp4)
+2026/07/07 07:16:02 Rebind; defIf="eth0", ips=[10.0.0.55/16 fe80::7e1e:52ff:fed1:7132/64]
+2026/07/07 07:16:02 magicsock: 0 active derp conns
+2026/07/07 07:16:02 monitor: gateway and self IP changed: gw=10.0.0.1 self=10.0.0.55
+2026/07/07 07:16:02 got LocalBackend in 52ms
+2026/07/07 07:16:02 Start
+2026/07/07 07:16:02 Backend: logs: be:dad87ce63d88834abb632cd0bd072d3ef12b0aada21c20e3892282ecb7a7c274 fe:
+2026/07/07 07:16:02 control: client.Login(0)
+2026/07/07 07:16:02 health(warnable=warming-up): error: Tailscale is starting. Please wait.
+2026/07/07 07:16:02 control: doLogin(regen=false, hasUrl=false)
+2026/07/07 07:16:03 control: control server key from https://controlplane.tailscale.com: ts2021=[fSeS+], legacy=[nlFWp]
+2026/07/07 07:16:03 control: RegisterReq: onode= node=[ES5mx] fup=false nks=false
+2026/07/07 07:16:03 control: RegisterReq: got response; nodeKeyExpired=false, machineAuthorized=true; authURL=false
+2026/07/07 07:16:03 control: netmap: got new dial plan from control
+2026/07/07 07:16:03 health(warnable=not-in-map-poll): ok
+2026/07/07 07:16:03 active login: licenciadochedar@gmail.com
+2026/07/07 07:16:03 Switching ipn state NoState -> Starting (WantRunning=true, nm=true)
+2026/07/07 07:16:03 magicsock: SetPrivateKey called (init)
+2026/07/07 07:16:03 wgengine: Reconfig: configuring userspace WireGuard config (with 0/11 peers)
+2026/07/07 07:16:03 wgengine: Reconfig: configuring router
+2026/07/07 07:16:03 wgengine: Reconfig: configuring DNS
+2026/07/07 07:16:03 dns: Set: {DefaultResolvers:[] Routes:{tailba5dab.ts.net.:[] ts.net.:[199.247.155.53 2620:111:8007::53]}+65arpa SearchDomains:[tailba5dab.ts.net.] Hosts:12}
+2026/07/07 07:16:03 dns: Resolvercfg: {Routes:{.:[127.0.0.53 168.63.129.16] ts.net.:[199.247.155.53 2620:111:8007::53]} Hosts:12 LocalDomains:[tailba5dab.ts.net.]+65arpa, cloud="azure"}
+2026/07/07 07:16:03 dns: OScfg: {Nameservers:[100.100.100.100] SearchDomains:[tailba5dab.ts.net. as3oyaxyermercpknrxo0v1cld.cx.internal.cloudapp.net.] }
+2026/07/07 07:16:03 rename of "/etc/resolv.conf" to "/etc/resolv.pre-tailscale-backup.conf" failed (rename /etc/resolv.conf /etc/resolv.pre-tailscale-backup.conf: device or resource busy), falling back to copy+delete
+2026/07/07 07:16:03 restarted resolved after 1ms
+2026/07/07 07:16:03 peerapi: serving on http://100.115.177.33:32956
+2026/07/07 07:16:03 peerapi: serving on http://[fd7a:115c:a1e0::a32:b122]:46833
+2026/07/07 07:16:03 magicsock: home DERP changing from derp-0 [0ms] to derp-27 [6ms]
+2026/07/07 07:16:03 magicsock: home is now derp-27 (iad)
+2026/07/07 07:16:03 magicsock: adding connection to derp-27 for home-keep-alive
+2026/07/07 07:16:03 magicsock: 1 active derp conns: derp-27=cr0s,wr0s
+2026/07/07 07:16:03 derphttp.Client.Connect: connecting to derp-27 (iad)
+2026/07/07 07:16:03 Switching ipn state Starting -> Running (WantRunning=true, nm=true)
+2026/07/07 07:16:03 control: NetInfo: NetInfo{varies=false hairpin= ipv6=false ipv6os=true udp=true icmpv4=false derp=#27 portmap= link="" firewallmode="ipt-default"}
+2026/07/07 07:16:03 magicsock: endpoints changed: 135.237.130.225:21512 (stun), 10.0.0.55:44347 (local), 172.17.0.1:44347 (local)
+2026/07/07 07:16:03 health(warnable=warming-up): ok
+2026/07/07 07:16:03 health(warnable=no-derp-connection): ok
+2026/07/07 07:16:03 health(warnable=no-derp-connection): ok
+2026/07/07 07:16:03 magicsock: derp-27 connected; connGen=1
+2026/07/07 07:16:03 health(warnable=no-derp-connection): ok
+2026/07/07 07:16:03 [RATELIMIT] format("health(warnable=%s): ok")
+2026/07/07 07:16:26 wgengine: idle peer [xvlAF] now active, reconfiguring WireGuard
+2026/07/07 07:16:26 wgengine: Reconfig: configuring userspace WireGuard config (with 1/11 peers)
+2026/07/07 07:16:27 magicsock: disco: node [xvlAF] d:be0e13d194a81553 now using 190.16.27.242:41641 mtu=1360 tx=a33f16e32097
+2026/07/07 07:20:15 wgengine: idle peer [BsjuX] now active, reconfiguring WireGuard
+2026/07/07 07:20:15 wgengine: Reconfig: configuring userspace WireGuard config (with 2/11 peers)
+2026/07/07 07:20:15 magicsock: disco: node [BsjuX] d:fb0052fa0ff84b5f now using 201.212.61.74:55572 mtu=1360 tx=49f315680712
+2026/07/07 07:31:18 magicsock: disco: node [BsjuX] d:fb0052fa0ff84b5f now using 201.212.61.74:41641 mtu=1360 tx=44f7cb07f4dd
+2026/07/07 07:52:19 magicsock: disco: node [BsjuX] d:fb0052fa0ff84b5f now using 201.212.61.74:55572 mtu=1360 tx=9cc68a6e367a
+2026/07/07 08:04:23 peerapi: invalid request from [fd7a:115c:a1e0::a32:b122]:39520: invalid ip:port "fd7a:115c:a1e0::a32:b122:46833", IPv6 addresses must be surrounded by square brackets
+2026/07/07 08:04:23 peerapi: invalid request from [fd7a:115c:a1e0::a32:b122]:39596: invalid ip:port "fd7a:115c:a1e0::a32:b122:46833", IPv6 addresses must be surrounded by square brackets
+2026/07/07 08:10:19 magicsock: disco: node [BsjuX] d:fb0052fa0ff84b5f now using 201.212.61.74:41641 mtu=1360 tx=4d47dcd3a33c
+2026/07/07 08:40:19 magicsock: disco: node [BsjuX] d:fb0052fa0ff84b5f now using 201.212.61.74:55572 mtu=1360 tx=62a59835f8c0
+2026/07/07 08:41:19 magicsock: disco: node [BsjuX] d:fb0052fa0ff84b5f now using 201.212.61.74:41641 mtu=1360 tx=236c3aa0ebe1
+2026/07/07 09:10:16 tailscaled got signal interrupt; shutting down
+2026/07/07 09:10:16 canceling captive portal context
+2026/07/07 09:10:16 control: client.Shutdown ...
+2026/07/07 09:10:16 control: authRoutine: exiting
+2026/07/07 09:10:16 control: updateRoutine: exiting
+2026/07/07 09:10:16 control: mapRoutine: exiting
+2026/07/07 09:10:16 control: Client.Shutdown done.
+2026/07/07 09:10:16 magicsock: closing connection to derp-27 (conn-close), age 1h54m12s
+2026/07/07 09:10:16 magicsock: 0 active derp conns
+2026/07/07 09:10:16 restarting systemd-resolved...
+2026/07/07 09:10:16 restarted systemd-resolved
+2026/07/07 09:10:16 monitor: RTM_DELROUTE: src=, dst=fe80::/64, gw=, outif=6, table=254
+2026/07/07 09:10:16 monitor: RTM_DELROUTE: src=, dst=fe80::7cfc:5e5f:2b9a:c552/128, gw=, outif=6, table=255
+2026/07/07 09:10:16 monitor: RTM_DELROUTE: src=, dst=ff00::/8, gw=, outif=6, table=255
+2026/07/07 09:10:16 monitor: ip rule deleted: {Family:2 DstLength:0 SrcLength:0 Tos:0 Table:254 Protocol:0 Scope:0 Type:1 Flags:0 Attributes:{Dst:<nil> Src:<nil> Gateway:<nil> OutIface:0 Priority:5210 Table:254 Mark:16711680 Pref:<nil> Expires:<nil> Metrics:<nil> Multipath:[]}}
+2026/07/07 09:10:16 monitor: ip rule deleted: {Family:2 DstLength:0 SrcLength:0 Tos:0 Table:253 Protocol:0 Scope:0 Type:1 Flags:0 Attributes:{Dst:<nil> Src:<nil> Gateway:<nil> OutIface:0 Priority:5230 Table:253 Mark:16711680 Pref:<nil> Expires:<nil> Metrics:<nil> Multipath:[]}}
+2026/07/07 09:10:16 monitor: ip rule deleted: {Family:2 DstLength:0 SrcLength:0 Tos:0 Table:0 Protocol:0 Scope:0 Type:7 Flags:0 Attributes:{Dst:<nil> Src:<nil> Gateway:<nil> OutIface:0 Priority:5250 Table:0 Mark:16711680 Pref:<nil> Expires:<nil> Metrics:<nil> Multipath:[]}}
+2026/07/07 09:10:16 monitor: ip rule deleted: {Family:2 DstLength:0 SrcLength:0 Tos:0 Table:52 Protocol:0 Scope:0 Type:1 Flags:0 Attributes:{Dst:<nil> Src:<nil> Gateway:<nil> OutIface:0 Priority:5270 Table:52 Mark:0 Pref:<nil> Expires:<nil> Metrics:<nil> Multipath:[]}}
+2026/07/07 09:10:16 flushing log.
+2026/07/07 09:10:16 logger closing down
